@@ -19,7 +19,7 @@ https://21494652413a323986.gradio.live/
 ---
 
 
-
+![AQI Escalation Prediction UI](main/Screenshot%202026-01-05%20201915.png)
 ## 📌 Project Overview
 
 This project predicts **air-quality health risk escalation** using **symbolic time-series modeling** on AQI data.
